@@ -1,9 +1,10 @@
 ## Olá 👋
-
 - 🌱 Estou aprendendendo C e Android Studio no momento
 - 👀 aprendendo a usar o GIT também
 - 😄 Pronomes: ele/dele
+
 ##
+
 <div >
 
   <a href="https://github.com/LittleCakeLV">
