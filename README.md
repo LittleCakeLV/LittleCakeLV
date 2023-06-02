@@ -1,5 +1,5 @@
 ## Olá 👋
-- 🌱 Estou aprendendendo C e Android Studio no momento
+- 🌱 Estou aprendendendo C++ no momento
 - 👀 aprendendo a usar o GIT também
 - 😄 Pronomes: ele/dele
 
